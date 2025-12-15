@@ -1,6 +1,7 @@
 #Microsoft Developer Studio
 *.sdf
 *.opensdf
+QRCodeTest/Debug/
 
 
 # Prerequisites
